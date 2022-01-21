@@ -3,14 +3,19 @@
 
 ### 自己紹介
 
-モバイルエンジニアとして活動している大学院生です。  
-主軸としているのはiOS(Swift)、Android(Kotlin)、その他、研究で地味に機械学習回してます。  
-2022年はサーバもやる。目指せフルスタック。
+- モバイルエンジニアとして活動している大学院生です。  
+- 主軸としているのはiOS(Swift)、Android(Kotlin)、その他、研究で地味に機械学習回してます。  
+- 2022年はサーバもやる。目指せフルスタック。
 
 ### 長期インターン等
 
-- 株式会社EMoshU: 実務,長期インターン,toC向けiOSアプリ開発（2021年8月〜2022年1月現在も継続中）
+- 株式会社EMoshU: 実務,長期インターン,toC向けiOSアプリ([ミヤマアユミのイラストアプリ](https://apps.apple.com/jp/app/ミヤマアユミのイラストアプリ/id1598574697))開発（2021年8月〜2022年1月現在も継続中）
 - 株式会社Shinonome Playground: 実務,受託,Androidアプリ開発 (2021年6月〜2022年1月現在も継続中)
+
+### 個人制作等
+
+- [Githubリポジトリ閲覧アプリ](https://github.com/Etsuwo/ios-engineer-codecheck): 株式会社ゆめみ iOSインターン選考の課題にて作成
+- [Simple Tuner](https://github.com/Etsuwo/SimpleTuner): ギターチューナーアプリ、AppStoreで公開中
 
 ### 執筆記事
 
